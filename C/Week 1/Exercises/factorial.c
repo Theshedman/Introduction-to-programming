@@ -1,4 +1,4 @@
-#include<stdio.h>/*comentario de prueba*/
+#include<stdio.h>/*comentario de prueba3*/
 int main()
 {
     int n,i;
