@@ -1,4 +1,4 @@
-#include <stdio.h> /*comentario*/
+#include <stdio.h> /*comentarios*/
 #include <ctype.h>
 
 int main()
