@@ -1,0 +1,4 @@
+/home/carlosal1015/Exercises/ejemplo/Repositorio/C/Week 3/ejemploif2.c: In function ‘main’:
+/home/carlosal1015/Exercises/ejemplo/Repositorio/C/Week 3/ejemploif2.c:5:27: error: expected expression before ‘)’ token
+   printf("Ingrese 0 o 1", );
+                           ^
