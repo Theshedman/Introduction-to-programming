@@ -10,3 +10,8 @@ I almost forget it, if you do not know how to use the terminal with his commands
 
 [Here](https://www.codecademy.com/es/learn/learn-the-command-line)
 https://github.com/AcecomFCUNI
+C es secuencial.
+Desventaja no se puede reutilizar
+Es reutilizable
+Don't repeat yourself
+WET === W.. yo... typing
