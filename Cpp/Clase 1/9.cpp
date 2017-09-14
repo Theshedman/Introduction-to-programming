@@ -17,4 +17,4 @@ float maximo(float a, float b){
 /*lo_que_me_bota NOMBRE()arg1,arg2, ...){
 //codigo
 }
-*/
+en C++ todo es objeto*/
