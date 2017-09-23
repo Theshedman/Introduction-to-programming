@@ -1,0 +1,11 @@
+/home/carlosal1015/Exercises/ejemplo/Repositorio/C/Week 5/dotproduct.c: In function ‘main’:
+/home/carlosal1015/Exercises/ejemplo/Repositorio/C/Week 5/dotproduct.c:18:15: error: ‘n’ undeclared (first use in this function)
+   for(i=0; i<=n-1, i++){
+               ^
+/home/carlosal1015/Exercises/ejemplo/Repositorio/C/Week 5/dotproduct.c:18:15: note: each undeclared identifier is reported only once for each function it appears in
+/home/carlosal1015/Exercises/ejemplo/Repositorio/C/Week 5/dotproduct.c:18:23: error: expected ‘;’ before ‘)’ token
+   for(i=0; i<=n-1, i++){
+                       ^
+/home/carlosal1015/Exercises/ejemplo/Repositorio/C/Week 5/dotproduct.c:20:3: error: expected ‘;’ before ‘}’ token
+   }
+   ^
